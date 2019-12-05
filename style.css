@@ -1,0 +1,85 @@
+
+body{
+    background-image: url(https://images.unsplash.com/photo-1566658426752-2c131ea62eaa?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=333&q=80);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+
+h1{
+    color : #c92d2d;
+    text-align: center;
+    font-size: 10mm;
+    border: solid blueviolet;
+    cursor: pointer;
+}
+
+p1,p{
+    color: darkblue;
+    cursor: default;
+    
+}
+
+li{
+    list-style: none;
+    display: inline;
+    font-size: 7mm;
+    padding-right : 10px;
+
+}
+.webtext:hover{
+    color: violet;
+    border: dotted pink;
+    cursor:default;
+}
+.webtext2{
+    text-decoration: underline;
+    text-transform: capitalize;
+    line-height: 20px;
+}
+
+.webtext4{
+    
+    line-height: 30px;
+    border: solid lightblue;
+    display: block;
+    cursor: default;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+
+img{
+    float:right;
+    padding : 1px;
+    border :1px solid black;
+}
+
+footer{
+    clear: both;
+    text-align: center;
+    font-size: 50px;
+}
+
+.boxmodel{
+    font-size:20px;
+    border:5px solid red   ;
+    display: inline-block;
+    padding: 5px 20px;
+    margin:5px 5px;
+    width: 60px;
+    height:50px; 
+}
+
+.para1{
+      font-size:20px;
+}
+
+span{
+    font-size: 2em;
+}
+
+
